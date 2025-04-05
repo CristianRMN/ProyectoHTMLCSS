@@ -1,0 +1,145 @@
+body {
+
+  background-color: #FFE7F3;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding: 0px;
+
+}
+
+a {
+
+
+  text-decoration: none;
+  color:black;
+
+}
+
+#imagen {
+  padding-left: 25%;
+
+
+}
+
+nav {
+
+  border: 2px solid;
+  background-image: url(https://www.dsm.com/content/dsm/tortuga/pt_BR/products-and-programs/details/ovinofos-nucleo-proteico/_jcr_content/root/responsivegrid/container_copy_copy.coreimg.png/1617032934111/ovinofos-nucleo-proteico-banner.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+}
+
+details {
+  margin-left: 92%;
+  border: 1px solid;
+  background-image: url(https://www.dsm.com/content/dsm/tortuga/pt_BR/products-and-programs/details/ovinofos-nucleo-proteico/_jcr_content/root/responsivegrid/container_copy_copy.coreimg.png/1617032934111/ovinofos-nucleo-proteico-banner.png);
+}
+
+summary {
+  text-align: center;
+  color: white;
+}
+
+summary:hover {
+  color: #623149;
+}
+#enlaces_menu{
+  color: white;
+}
+#enlaces_menu:hover{
+  color: #623149;
+}
+
+h1 {
+
+  text-align: center;
+  color: #FFE7F3;
+  font-weight: bolder;
+
+
+}
+
+h1:hover {
+  color: #623149;
+}
+
+#todas_mis_pelis {
+  border: 2px solid;
+
+
+}
+
+#todas_mis_pelis {
+
+  background-color: #C2A5B3;
+}
+
+#titulo1 {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+#resumen_peli {
+  font-size: 13px;
+}
+
+#titulo2 {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+#titulo3 {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+#titulo4 {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+th {
+  color: #ffffff;
+}
+th:hover{
+  color:#e784f8;
+}
+td{
+  text-align: center;
+}
+
+#tabla_arriba_peli1 {
+  background-color: #A98195;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: none;
+}
+
+#tabla_arriba_peli1_parte2 {
+  background-color: #DFBACC;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: none;
+}
+
+#video1 {
+  border: 2px solid;
+
+}
+
+footer {
+
+  text-align: center;
+  font-size: 20px;
+
+}
+
+#iconos_de_redes_sociales {
+
+  align-items: center;
+
+
+}

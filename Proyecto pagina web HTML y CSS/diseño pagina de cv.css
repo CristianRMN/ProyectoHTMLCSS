@@ -1,0 +1,89 @@
+body {
+    background-color: black;
+    color: white; 
+    margin: 0; 
+    padding: 0;
+}
+
+#cv {
+    background-color: #FCEDFF;
+    color: #747175;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+    margin: 10% 20%; 
+}
+
+header {
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+#contenedor-lorem {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+#lorem {
+    flex: 1;
+    padding-right: 20px;
+}
+
+#imagen {
+    flex: 1;
+    text-align: right;
+}
+
+#contacto {
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+#red_social {
+    text-align: left;
+}
+
+#contenedor2 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+#experiencia-educacion1,
+#educacion {
+    width: 45%;
+}
+
+#experiencia-educacion2,
+#habilidades,
+#idiomas {
+    width: 45%;
+    margin-left: 5%;
+}
+
+#habilidades {
+    margin-left: 0;
+}
+
+#experiencia-educacion1,
+#experiencia-educacion2 {
+    margin-left: 0;
+}
+
+#idiomas {
+    margin-left: 10%;
+}
+
+#linea_abajo {
+    width: 100%;
+    margin-top: 20px;
+}
+#lorem,#contacto,#red_social,#experiencia-educacion1,#posicion{
+    margin-left:6%;
+}
